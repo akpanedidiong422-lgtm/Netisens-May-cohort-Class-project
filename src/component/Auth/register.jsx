@@ -24,7 +24,7 @@ function Register() {
 
                 <div className="register-header">
                     <h1 className="register-title">
-                        Create an account
+                       Welcome back
                     </h1>
 
                     <p className="register-subtitle">
